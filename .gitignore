@@ -29,6 +29,7 @@ mono_crash.*
 [Rr]eleases/x64/
 bin/x64/
 obj/x64/
+x64/
 
 [Dd]ebug/x86/
 [Dd]ebugPublic/x86/
@@ -126,6 +127,10 @@ StyleCopReport.xml
 *.pidb
 *.svclog
 *.scc
+*.dll
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
 
 # Chutzpah Test files
 _Chutzpah*
