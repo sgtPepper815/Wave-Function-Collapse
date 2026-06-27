@@ -14,10 +14,7 @@ external/SFML/
 
 with the following structure:
 
-external/SFML/
-├── include/
-├── lib/
-└── bin/
+
 Building
 
 Clone the repository:
