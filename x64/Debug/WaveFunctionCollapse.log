@@ -1,0 +1,46 @@
+﻿  Cell.cpp
+C:\VS Projects\WaveFunctionCollapse\WaveFunctionCollapse\Cell.h(22,65): warning C4267: "Argument": Konvertierung von "size_t" nach "_Ty", Datenverlust möglich
+C:\VS Projects\WaveFunctionCollapse\WaveFunctionCollapse\Cell.h(22,65): warning C4267:         with
+C:\VS Projects\WaveFunctionCollapse\WaveFunctionCollapse\Cell.h(22,65): warning C4267:         [
+C:\VS Projects\WaveFunctionCollapse\WaveFunctionCollapse\Cell.h(22,65): warning C4267:             _Ty=int
+C:\VS Projects\WaveFunctionCollapse\WaveFunctionCollapse\Cell.h(22,65): warning C4267:         ]
+  (Quelldatei „Cell.cpp“ wird kompiliert)
+  
+  Grid.cpp
+C:\VS Projects\WaveFunctionCollapse\WaveFunctionCollapse\Cell.h(22,65): warning C4267: "Argument": Konvertierung von "size_t" nach "_Ty", Datenverlust möglich
+C:\VS Projects\WaveFunctionCollapse\WaveFunctionCollapse\Cell.h(22,65): warning C4267:         with
+C:\VS Projects\WaveFunctionCollapse\WaveFunctionCollapse\Cell.h(22,65): warning C4267:         [
+C:\VS Projects\WaveFunctionCollapse\WaveFunctionCollapse\Cell.h(22,65): warning C4267:             _Ty=int
+C:\VS Projects\WaveFunctionCollapse\WaveFunctionCollapse\Cell.h(22,65): warning C4267:         ]
+  (Quelldatei „Grid.cpp“ wird kompiliert)
+  
+C:\VS Projects\WaveFunctionCollapse\WaveFunctionCollapse\Grid.cpp(57,45): warning C4267: "Argument": Konvertierung von "size_t" nach "_Ty", Datenverlust möglich
+C:\VS Projects\WaveFunctionCollapse\WaveFunctionCollapse\Grid.cpp(57,45): warning C4267:         with
+C:\VS Projects\WaveFunctionCollapse\WaveFunctionCollapse\Grid.cpp(57,45): warning C4267:         [
+C:\VS Projects\WaveFunctionCollapse\WaveFunctionCollapse\Grid.cpp(57,45): warning C4267:             _Ty=int
+C:\VS Projects\WaveFunctionCollapse\WaveFunctionCollapse\Grid.cpp(57,45): warning C4267:         ]
+C:\VS Projects\WaveFunctionCollapse\WaveFunctionCollapse\Grid.cpp(60,45): warning C4267: "Argument": Konvertierung von "size_t" nach "_Ty", Datenverlust möglich
+C:\VS Projects\WaveFunctionCollapse\WaveFunctionCollapse\Grid.cpp(60,45): warning C4267:         with
+C:\VS Projects\WaveFunctionCollapse\WaveFunctionCollapse\Grid.cpp(60,45): warning C4267:         [
+C:\VS Projects\WaveFunctionCollapse\WaveFunctionCollapse\Grid.cpp(60,45): warning C4267:             _Ty=int
+C:\VS Projects\WaveFunctionCollapse\WaveFunctionCollapse\Grid.cpp(60,45): warning C4267:         ]
+C:\VS Projects\WaveFunctionCollapse\WaveFunctionCollapse\Grid.cpp(157,59): warning C4244: "Argument": Konvertierung von "int" in "T", möglicher Datenverlust
+C:\VS Projects\WaveFunctionCollapse\WaveFunctionCollapse\Grid.cpp(157,59): warning C4244:         with
+C:\VS Projects\WaveFunctionCollapse\WaveFunctionCollapse\Grid.cpp(157,59): warning C4244:         [
+C:\VS Projects\WaveFunctionCollapse\WaveFunctionCollapse\Grid.cpp(157,59): warning C4244:             T=float
+C:\VS Projects\WaveFunctionCollapse\WaveFunctionCollapse\Grid.cpp(157,59): warning C4244:         ]
+C:\VS Projects\WaveFunctionCollapse\WaveFunctionCollapse\Grid.cpp(157,45): warning C4244: "Argument": Konvertierung von "int" in "T", möglicher Datenverlust
+C:\VS Projects\WaveFunctionCollapse\WaveFunctionCollapse\Grid.cpp(157,45): warning C4244:         with
+C:\VS Projects\WaveFunctionCollapse\WaveFunctionCollapse\Grid.cpp(157,45): warning C4244:         [
+C:\VS Projects\WaveFunctionCollapse\WaveFunctionCollapse\Grid.cpp(157,45): warning C4244:             T=float
+C:\VS Projects\WaveFunctionCollapse\WaveFunctionCollapse\Grid.cpp(157,45): warning C4244:         ]
+  Main.cpp
+C:\VS Projects\WaveFunctionCollapse\WaveFunctionCollapse\Cell.h(22,65): warning C4267: "Argument": Konvertierung von "size_t" nach "_Ty", Datenverlust möglich
+C:\VS Projects\WaveFunctionCollapse\WaveFunctionCollapse\Cell.h(22,65): warning C4267:         with
+C:\VS Projects\WaveFunctionCollapse\WaveFunctionCollapse\Cell.h(22,65): warning C4267:         [
+C:\VS Projects\WaveFunctionCollapse\WaveFunctionCollapse\Cell.h(22,65): warning C4267:             _Ty=int
+C:\VS Projects\WaveFunctionCollapse\WaveFunctionCollapse\Cell.h(22,65): warning C4267:         ]
+  (Quelldatei „Main.cpp“ wird kompiliert)
+  
+  Code wird generiert...
+  WaveFunctionCollapse.vcxproj -> C:\VS Projects\WaveFunctionCollapse\x64\Debug\WaveFunctionCollapse.exe
