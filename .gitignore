@@ -30,6 +30,7 @@ mono_crash.*
 bin/x64/
 obj/x64/
 x64/
+build/
 
 [Dd]ebug/x86/
 [Dd]ebugPublic/x86/
