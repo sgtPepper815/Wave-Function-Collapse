@@ -17,7 +17,7 @@ with the following structure:
 
 Building
 
-Clone the repository:
+Clone the repository: https://github.com/sgtPepper815/Wave-Function-Collapse.git
 
 git clone <repository-url>
 cd WaveFunctionCollapse
